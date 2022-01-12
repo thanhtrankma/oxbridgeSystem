@@ -1,0 +1,6 @@
+{
+  "name": "configEnv",
+  "private": true,
+  "license": "MIT",
+  "main": "index.js"
+}  

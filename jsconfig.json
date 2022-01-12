@@ -1,0 +1,22 @@
+{
+  "compilerOptions": {
+    "jsx": "react",
+    "baseUrl": "./src/",
+    "paths": {
+      "components/*": [
+        "assets/*",
+        // "app-redux/*",
+        "configEnv/*",
+        "utils/*",
+        "components/*",
+        "api/*",
+      ]
+    },
+    // "moduleResolution": "node",
+    "resolveJsonModule": true,
+  },
+  "exclude": [
+    "node_modules"
+  ]
+}
+  
